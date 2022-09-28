@@ -1,0 +1,13 @@
+{
+  "nome": "Fulano",
+  "sobrenome": "de Tal",
+  "empresa": "Ebac",
+  "pais": "Brasil",
+  "endereco": "Av. Brasil",
+  "complemento": "Apto 203",
+  "cidade": "São Paulo",
+  "estado": "São Paulo",
+  "cep": "95600-000",
+  "telefone": "9999999999",
+  "senha": "senha@forte!"
+}
